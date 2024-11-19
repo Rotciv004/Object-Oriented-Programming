@@ -1,0 +1,3 @@
+﻿  Source.c
+D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_1\git\H1\Source.c(44): warning C4715: 'prime_number': not all control paths return a value
+  H1.vcxproj -> D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_1\git\H1\x64\Debug\H1.exe
