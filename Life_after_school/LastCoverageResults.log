@@ -1,0 +1,18 @@
+[2024-04-12 11:15:03] [info] Start Program:
+Path:"D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_3\Life_after_school\x64\Debug\Life_after_school.exe"
+Arguments:
+Working directory: "D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_3\Life_after_school\"
+Modules: Selected: D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_3\Life_after_school\x64\Debug\Life_after_school.exe Excluded: 
+Sources: Selected: D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_3\Life_after_school Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\raobr\AppData\Local\Temp\scb1zely.3lo 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2024-04-12 11:15:03] [info] Module: D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_3\Life_after_school\x64\Debug\Life_after_school.exe is selected because it matches selected pattern: D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_3\Life_after_school\x64\Debug\Life_after_school.exe
