@@ -1,0 +1,6 @@
+﻿  main.c
+D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_2\Bakery\main.c(53,13): warning C4013: 'strcmp' undefined; assuming extern returning int
+D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_2\Bakery\main.c(100,18): warning C4013: 'strstr' undefined; assuming extern returning int
+D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_2\Bakery\main.c(109,65): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_2\Bakery\main.c(109,122): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+  Bakery.vcxproj -> D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_2\Bakery\x64\Debug\Bakery.exe

@@ -1,0 +1,34 @@
+﻿  tests.c
+D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_2\Bakery_dinamic\tests.c(8,5): warning C4013: 'assert' undefined; assuming extern returning int
+D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_2\Bakery_dinamic\tests.c(30,33): warning C4047: 'function': 'freeElem *' differs in levels of indirection from 'void (__cdecl *)(Material *)'
+D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_2\Bakery_dinamic\tests.c(30,33): warning C4024: 'createRepo': different types for formal and actual parameter 2
+D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_2\Bakery_dinamic\tests.c(41,33): warning C4047: 'function': 'freeElem *' differs in levels of indirection from 'void (__cdecl *)(Material *)'
+D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_2\Bakery_dinamic\tests.c(41,33): warning C4024: 'createRepo': different types for formal and actual parameter 2
+D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_2\Bakery_dinamic\tests.c(65,33): warning C4047: 'function': 'freeElem *' differs in levels of indirection from 'void (__cdecl *)(Material *)'
+D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_2\Bakery_dinamic\tests.c(65,33): warning C4024: 'createRepo': different types for formal and actual parameter 2
+D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_2\Bakery_dinamic\tests.c(79,33): warning C4047: 'function': 'freeElem *' differs in levels of indirection from 'void (__cdecl *)(Material *)'
+D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_2\Bakery_dinamic\tests.c(79,33): warning C4024: 'createRepo': different types for formal and actual parameter 2
+D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_2\Bakery_dinamic\tests.c(87,27): warning C4047: 'function': 'Material *' differs in levels of indirection from 'Elem *'
+D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_2\Bakery_dinamic\tests.c(87,27): warning C4024: 'equalMaterials': different types for formal and actual parameter 1
+D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_2\Bakery_dinamic\tests.c(94,33): warning C4047: 'function': 'freeElem *' differs in levels of indirection from 'void (__cdecl *)(Material *)'
+D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_2\Bakery_dinamic\tests.c(94,33): warning C4024: 'createRepo': different types for formal and actual parameter 2
+D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_2\Bakery_dinamic\tests.c(165,33): warning C4047: 'function': 'freeElem *' differs in levels of indirection from 'void (__cdecl *)(Material *)'
+D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_2\Bakery_dinamic\tests.c(165,33): warning C4024: 'createRepo': different types for formal and actual parameter 2
+D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_2\Bakery_dinamic\tests.c(173,27): warning C4047: 'function': 'Material *' differs in levels of indirection from 'Elem *'
+D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_2\Bakery_dinamic\tests.c(173,27): warning C4024: 'equalMaterials': different types for formal and actual parameter 1
+D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_2\Bakery_dinamic\tests.c(180,33): warning C4047: 'function': 'freeElem *' differs in levels of indirection from 'void (__cdecl *)(Material *)'
+D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_2\Bakery_dinamic\tests.c(180,33): warning C4024: 'createRepo': different types for formal and actual parameter 2
+D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_2\Bakery_dinamic\tests.c(189,27): warning C4047: 'function': 'Material *' differs in levels of indirection from 'Elem *'
+D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_2\Bakery_dinamic\tests.c(189,27): warning C4024: 'equalMaterials': different types for formal and actual parameter 1
+D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_2\Bakery_dinamic\tests.c(196,33): warning C4047: 'function': 'freeElem *' differs in levels of indirection from 'void (__cdecl *)(Material *)'
+D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_2\Bakery_dinamic\tests.c(196,33): warning C4024: 'createRepo': different types for formal and actual parameter 2
+D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_2\Bakery_dinamic\tests.c(211,33): warning C4047: 'function': 'freeElem *' differs in levels of indirection from 'void (__cdecl *)(Material *)'
+D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_2\Bakery_dinamic\tests.c(211,33): warning C4024: 'createRepo': different types for formal and actual parameter 2
+D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_2\Bakery_dinamic\tests.c(245,33): warning C4047: 'function': 'freeElem *' differs in levels of indirection from 'void (__cdecl *)(Material *)'
+D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_2\Bakery_dinamic\tests.c(245,33): warning C4024: 'createRepo': different types for formal and actual parameter 2
+D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_2\Bakery_dinamic\tests.c(279,33): warning C4047: 'function': 'freeElem *' differs in levels of indirection from 'void (__cdecl *)(Material *)'
+D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_2\Bakery_dinamic\tests.c(279,33): warning C4024: 'createRepo': different types for formal and actual parameter 2
+D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_2\Bakery_dinamic\tests.c(292,33): warning C4047: 'function': 'freeElem *' differs in levels of indirection from 'void (__cdecl *)(Material *)'
+D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_2\Bakery_dinamic\tests.c(292,33): warning C4024: 'createRepo': different types for formal and actual parameter 2
+tests.obj : error LNK2019: unresolved external symbol assert referenced in function test_addMaterial_services
+D:\Facultate\Sem II\Programare orientata obiect\Laboratoare\TEME\homework_2\Bakery_dinamic\x64\Debug\Bakery_dinamic.exe : fatal error LNK1120: 1 unresolved externals
